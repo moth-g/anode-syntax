@@ -4,7 +4,8 @@ An ascetic light syntax theme for Atom, part of Moth's [FONC YOU](https://german
 
 The luminous counterpart of Cathode, distilled into undiluted simplicity. WARNING: may contain traces of blue static.
 
-![Anode Screenshot](anode_ss01.png)
+![Anode Screenshot](https://user-images.githubusercontent.com/73740741/97788782-cd2c5100-1bbb-11eb-93c2-90295c360540.png)
+
 `Font: Inconsolata / UI: One Light / CSS colors: highlight-colors by brumm (not part of the theme)`
 
 Anode aims for unabashed clarity, ideal for programming your world-[saving / dominating] AIs from Moonbase Alpha.
